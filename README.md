@@ -1,6 +1,9 @@
 # MT-EQA
 Multi-Target Embodied Question Answering
 
+<p align="center">
+  <img src="http://www.cs.unc.edu/~licheng/images/cvpr19_mteqa.png" width="75%"/>
+</p>
 
 ## Citation
 
