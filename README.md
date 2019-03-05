@@ -80,3 +80,6 @@ Go to `eqa_nav` folder and do the followings:
 - Run `./tools/eval_nav_object.py` and `./tools/eval_nav_room.py` for navigation evaluation.
 
 
+## Contact
+
+This project is maintained by [Licheng Yu](http://cs.unc.edu/~licheng/).
